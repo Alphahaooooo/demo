@@ -8,7 +8,8 @@ using namespace std;
     cout<<"???"<<endl;
 
 
-    cout<<"master"<<endl;
+    cout<<"dev"<<endl;
+    cout<<"merge"<<endl;
 
     return 0;
  }
