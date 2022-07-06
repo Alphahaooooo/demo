@@ -6,5 +6,7 @@ using namespace std;
     cout<<"hi"<<endl;
 
     cout<<"???"<<endl;
+
+    cout<<"master"<<endl;
     return 0;
  }
