@@ -7,6 +7,8 @@ using namespace std;
 
     cout<<"???"<<endl;
 
+
     cout<<"master"<<endl;
+
     return 0;
  }
