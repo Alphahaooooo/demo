@@ -18,5 +18,6 @@ using namespace std;
     cout<<"??????????????/"<<endl;
 
     cout<<" "<<endl;
+    cout<<"test"<<endl;
     return 0;
  }
