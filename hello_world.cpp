@@ -10,6 +10,7 @@ using namespace std;
 
     cout<<"dev"<<endl;
     cout<<"merge"<<endl;
+    cour<<"again!"<<endl;
 
     return 0;
  }
